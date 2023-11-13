@@ -4,6 +4,27 @@
     box-sizing: border-box;
 }
 
+.bg_header{
+    background-color: rgba(44,62,80,255)
+}
+
+.img-avatar{
+    width: 20%;
+}
+
+.bg_main{
+    background-color: rgba(26,188,156,255)
+}
+
+hr{
+    border-top: 3px solid black;
+    opacity: 1;
+    border-radius: 20px;
+}
+
+.width_100{
+    width: 100%;
+}
 .content75{
     height: 75px;
 }
