@@ -17,16 +17,38 @@
 }
 
 hr{
-    border-top: 3px solid black;
+    border-top: 2px solid;
     opacity: 1;
     border-radius: 20px;
 }
 
+.border-bottom{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.pb-10{
+    padding-bottom: 80px;
+}
 .bordo{
    border: 1px solid white;
-   padding: 3% 2%;
+   padding: 10px;
+   height: 100%;
+   width: 100%;
    border-radius: 50%;
 
+}
+
+.bg_footer{
+    background-color: rgba(44,62,80,255);
+}
+
+.bg_footer1{
+    background-color: rgba(58,84,109,255);
+}
+.margin{
+    margin: 10px
 }
 
 .width_100{
